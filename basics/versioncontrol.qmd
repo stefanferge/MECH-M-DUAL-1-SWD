@@ -256,7 +256,7 @@ To https://github.com/kandolfp/playground.git
 
 Now, if you were to do this on your own, everything would work and you would be happy. 
 Unfortunately, since we are doing this in a class and at the same time, we will encounter some difficulties. 
-After all, this is a crash course for Git, so eventually something hat to crash. 
+After all, this is a crash course for Git, so eventually something had to crash. 
 
 Some of you might get the following message for `git push`:
 ```bash
